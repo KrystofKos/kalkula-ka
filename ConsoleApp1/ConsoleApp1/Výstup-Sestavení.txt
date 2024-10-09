@@ -1,0 +1,5 @@
+﻿Sestavení zahájeno v 11:20...
+1>------ Sestavování zahájeno: Projekt: ConsoleApp1, konfigurace: Debug Any CPU ------
+1>  ConsoleApp1 -> C:\Users\c23kosar\Documents\GitHub\kalkula-ka\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+========== Build: úspěšné: 1, chybné: 0, aktuální: 0, vynechané: 0 ==========
+========== Sestavení dokončeno v 11:20 a trvalo 00,189 sekund ==========
